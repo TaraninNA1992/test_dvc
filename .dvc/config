@@ -1,0 +1,6 @@
+['remote "local_remote"']
+url = /local_remote
+[cache]
+dir = ../value
+[core]
+remote = local_remote
