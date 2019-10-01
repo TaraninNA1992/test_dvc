@@ -2,5 +2,5 @@
 url = /local_remote
 [cache]
 dir = ../value
-[core]
-remote = local_remote
+['remote "s3"']
+url = https://dvc.analytics.ecosystem.pw/
